@@ -1,0 +1,15 @@
+
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask 
+dill 
+streamlit 
+imbalanced-learn 
+shap 
+joblib 
+pyinstaller
