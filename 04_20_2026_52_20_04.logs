@@ -1,0 +1,6 @@
+[2026-04-20 20:52:06,792] 24 root - INFO - DataIngestion method had been started
+[2026-04-20 20:52:06,827] 27 root - INFO - Read the dataset as dataframe
+[2026-04-20 20:52:06,867] 32 root - INFO - Train Test Split Initiated
+[2026-04-20 20:52:06,925] 39 root - INFO - The dataIngestion is completed
+[2026-04-20 20:52:06,985] 65 root - INFO - Read train and test data completed
+[2026-04-20 20:52:06,992] 81 root - INFO - Applying preprocessing object
