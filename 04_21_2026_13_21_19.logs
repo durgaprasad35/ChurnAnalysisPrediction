@@ -1,0 +1,9 @@
+[2026-04-21 21:13:21,941] 27 root - INFO - DataIngestion method had been started
+[2026-04-21 21:13:21,968] 30 root - INFO - Read the dataset as dataframe
+[2026-04-21 21:13:22,013] 35 root - INFO - Train Test Split Initiated
+[2026-04-21 21:13:22,075] 42 root - INFO - The dataIngestion is completed
+[2026-04-21 21:13:22,151] 65 root - INFO - Read train and test data completed
+[2026-04-21 21:13:22,156] 81 root - INFO - Applying preprocessing object
+[2026-04-21 21:13:22,209] 33 root - INFO - Splitting training and test data
+[2026-04-21 21:13:22,215] 57 root - INFO - Starting model training and evaluation
+[2026-04-21 21:13:25,105] 77 root - INFO - Best Model Found: Logistic Regression with Accuracy: 0.8211
